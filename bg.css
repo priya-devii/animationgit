@@ -1,0 +1,8 @@
+body{
+   
+    background: red;overflow: hidden;
+    background-repeat: no-repeat;
+    background:radial-gradient(  red 5%,black 80% );
+    height: 100vh;
+    
+} 
